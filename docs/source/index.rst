@@ -20,4 +20,4 @@ Contents
 
    usage
    api
-   This is where you put the changes !!!!!
+   When adding a section to the contents you must add an rst file of that content to source
